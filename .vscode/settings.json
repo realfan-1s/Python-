@@ -1,0 +1,11 @@
+{
+<<<<<<< HEAD
+    "python.pythonPath": "C:\\Users\\realfans\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+=======
+    "python.pythonPath": "E:\\Python38_64\\Python3.8.5\\python.exe",
+>>>>>>> 83e6661e70239c5894a83631254d38e3a985d1ab
+    "python.formatting.provider": "yapf",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true
+}
